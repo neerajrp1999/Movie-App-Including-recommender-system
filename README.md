@@ -1,5 +1,5 @@
 # Movie-App-Including-recommender-system
-This is a Movie Application which Include recommender system.
+This is a Movie Application which Includes recommender system.
 # Reqirement
 visual studio 2019 - python 	
 
